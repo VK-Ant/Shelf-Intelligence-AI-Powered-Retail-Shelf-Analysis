@@ -1,4 +1,4 @@
-# Shelf Intelligence v2.0 — AI Powered Retail Shelf Analysis
+# Shelf Intelligence v2.0:  AI Powered Retail Shelf Analysis
 
 **One reference image. One shelf photo. Instant analysis. Fully offline.**
 
@@ -19,7 +19,7 @@ Built out of curiosity to solve a real-world retail problem using multimodal vis
 
 ## Features
 
-| # | Feature | Description |
+| S.No. | Feature | Description |
 |---|---------|-------------|
 | 1 | Reference Image Matching | Upload one product photo, find it on any shelf |
 | 2 | Text-Based Product Search | Type a product name, model locates it |
@@ -96,10 +96,7 @@ Clarity of frame matters more than the model. A clean, well-lit shelf photo give
 ## Author
 
 **Venkatkumar (VK)**
-- Kaggle Master (top ~0.4% globally)
-- M.Tech AI, BITS Pilani
-- 3.5+ years production AI (healthcare, manufacturing, retail)
-- Published: arXiv, IEEE
+- Kaggle Master
 
 GitHub: [@vk-ant](https://github.com/vk-ant)
 Medium: [@VK_Venkatkumar](https://medium.com/@VK_Venkatkumar)
